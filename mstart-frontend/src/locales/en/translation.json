@@ -1,0 +1,218 @@
+{
+  "welcome": "Welcome to Our Store",
+  "description": "Discover the finest products at unbeatable prices.",
+  "shopNow": "Shop Now",
+
+  "login": {
+    "title": "Welcome Back",
+    "email": "Email",
+    "emailPlaceholder": "example@mail.com",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "button": "Log In",
+    "success": "Logged in Successfully ✅",
+    "error": "Login Failed ❌: Invalid email or password",
+    "noAccount": "Don't have an account?",
+    "register": "Register here"
+  },
+  "register": {
+    "title": "Create an Account",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Your full name",
+    "email": "Email",
+    "emailPlaceholder": "example@mail.com",
+    "phone": "Phone Number",
+    "phonePlaceholder": "1234567890",
+    "phonePatternTitle": "Please enter exactly 10 digits",
+    "phoneNote": "Enter 10 digit phone number (numbers only)",
+    "gender": "Gender",
+    "select": "Select...",
+    "female": "Female",
+    "male": "Male",
+    "other": "Other",
+    "password": "Password",
+    "passwordPlaceholder": "Enter password",
+    "passwordNote": "Minimum 6 characters",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Re-enter password",
+    "dateOfBirth": "Date of Birth",
+    "submit": "Register",
+    "passwordMismatch": "Passwords do not match ❌",
+    "success": "Registration Completed Successfully ✅",
+    "failure": "Failed to Register ❌",
+    "alreadyHaveAccount": "Already have an account?",
+    "loginHere": "Log in here"
+  },
+   "navbar": {
+    "changeLanguage": "Change Language",
+    "brandName": "Prime Store",
+    "home": "Home",
+    "login": "Login",
+    "register": "Register",
+    "statistics": "Statistics",
+    "customers": "Customers",
+    "products": "Products",
+    "orders": "Orders",
+    "cart": "Cart",
+    "myOrders": "My Orders",
+    "hello": "Hello, {{name}}",
+    "logout": "Logout",
+    "photoUploadSuccess": "Photo uploaded successfully!",
+    "photoUploadError": "Failed to upload photo."
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "customers": "Customers",
+    "products": "Products",
+    "orders": "Orders",
+    "totalSales": "Total Sales"
+  },
+  "cart": {
+    "cartTitle": "Shopping Cart",
+    "emptyCart": "Your cart is empty.",
+    "name": "Name",
+    "amount": "Price",
+    "quantity": "Quantity",
+    "subtotal": "Subtotal",
+    "remove": "Remove",
+    "delete": "Delete",
+    "total": "Total",
+    "checkout": "Checkout",
+    "placingOrder": "Placing order...",
+    "orderSuccess": "Order placed successfully!",
+    "orderError": "Failed to place the order. Please try again."
+  },
+  "productDetails": {
+    "title": "Product Details",
+    "description": "Description",
+    "price": "Price",
+    "addToCart": "Add to Cart",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock"
+  },
+  "orders": {
+    "title": "My Orders",
+    "totalOrders": "Total Orders",
+    "totalAmount": "Total Amount",
+    "currency": "Currency",
+    "noOrders": "No orders to display.",
+    "invalidCustomerID": "Invalid or missing customer ID. Please log in again or enter a valid Customer ID.",
+    "fetchError": "Unable to fetch orders. Please try again later."
+  },
+  "table": {
+    "index": "#",
+    "product": "Product",
+    "quantity": "Quantity",
+    "totalPrice": "Total Price",
+    "date": "Date",
+    "action": "Action",
+    "delete": "Delete Order"
+  },
+  "ordersManagement": {
+    "title": "Orders Management",
+    "searchPlaceholder": "Search by Customer ID",
+    "noOrdersFound": "No orders found."
+  },
+  "tables": {
+    "index": "#",
+    "customer": "Customer",
+    "product": "Product",
+    "quantity": "Quantity",
+    "totalPrice": "Total Price",
+    "date": "Date",
+    "actions": "Actions",
+    "delete": "Delete"
+  },
+  "common": {
+    "na": "N/A"
+  },
+  "products": {
+    "title": "🛒 Product Catalog",
+    "addNew": "Add New Product",
+    "editProduct": "Edit Product",
+    "namePlaceholder": "Name",
+    "descriptionPlaceholder": "Description",
+    "statusPlaceholder": "-- Select Status --",
+    "statusOptions": {
+      "active": "Active",
+      "inactive": "Inactive",
+      "deleted": "Deleted",
+      "expired": "Expired"
+    },
+    "amountPlaceholder": "Amount",
+    "currencyPlaceholder": "Currency",
+    "buttons": {
+      "add": "Add",
+      "update": "Update",
+      "clear": "Clear",
+      "edit": "Edit",
+      "delete": "Delete",
+      "addToCart": "+ Add to Cart"
+    },
+    "alerts": {
+      "loading": "Loading products...",
+      "noProducts": "No products available.",
+      "noProductsByStatus": "No products found for this status.",
+      "confirmDelete": "Are you sure you want to delete this product?",
+      "addedToCart": "Product added to cart!",
+      "addSuccess": "Product has been added successfully.✅",
+      "updateSuccess": "Product has been updated successfully.✅",
+      "deleteSuccess": "Product has been deleted successfully.✅",
+      "addFail": "❌ Failed to save product.",
+      "deleteFail": "❌ Failed to delete product."
+    },
+    "labels": {
+      "filterByStatus": "Filter by Status:",
+      "price": "Price:",
+      "status": "Status:"
+    }
+  },
+  "customers": {
+    "title": "📋 Customers",
+    "add": "Add",
+    "update": "Update",
+    "clear": "Clear",
+    "edit": "Edit",
+    "delete": "Delete",
+    "addNew": "Add New Customer",
+    "editCustomer": "Edit Customer",
+    "deleteSelected": "🗑️ Delete Selected ({{count}})",
+    "errorEmailConflict": "The email is already registered. Please use a different email.",
+    "errorSave": "Failed to save customer: {{message}}",
+    "confirmDelete": "Are you sure you want to delete this customer?",
+    "confirmBulkDelete": "Are you sure you want to delete the selected customers?",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "dob": "Date of Birth",
+      "status": "Status",
+      "gender": "Gender",
+      "password": "Password",
+      "selectGender": "Select Gender",
+      "statusOptions": {
+        "active": "Active",
+        "inactive": "Inactive",
+        "deleted": "Deleted",
+        "expired": "Expired"
+      },
+      "genderOptions": {
+        "male": "Male",
+        "female": "Female"
+      }
+    },
+    "table": {
+      "id": "ID",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "dob": "Date of Birth",
+      "status": "Status",
+      "actions": "Actions"
+    }
+  },
+   "footer": {
+    "rightsReserved": "All rights reserved.",
+    "brandName": "Prime Store"
+  }
+}
