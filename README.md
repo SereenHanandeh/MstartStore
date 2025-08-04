@@ -145,7 +145,8 @@ This project is a full-stack web application built to fulfill the MSTART hiring 
 
 
  -------------------------------------------------------------------
-
+login for admin : email --> admin@example.com
+                  password--> 1234
  Made with ❤️ by Sereen Hanandeh as part of the MSTART Hiring Task.
 
 
