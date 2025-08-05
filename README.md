@@ -93,6 +93,8 @@ This project is a full-stack web application built to fulfill the MSTART hiring 
 
 ## 📁 Project Folder Structure
 
+<pre>
+```bash
 📦 project-root/
 ├── 📁 node_modules/
 ├── 📁 public/
@@ -122,6 +124,9 @@ This project is a full-stack web application built to fulfill the MSTART hiring 
 │   ├── App.css
 │   ├── App.jsx
 │   └── i18n.js
+```
+</pre>
+
 
 
  ------------------------------------------------------------------
