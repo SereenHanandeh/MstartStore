@@ -99,29 +99,29 @@ This project is a full-stack web application built to fulfill the MSTART hiring 
 ├── 📁 src/
 │   ├── 📁 assets/
 │   ├── 📁 components/
-│   │   ├── 📄 Footer.jsx
-│   │   └── 📄 Navbar.jsx
-│   ├── 📁 locales/              🌐 i18n language files
+│   │   ├── Footer.jsx
+│   │   └── Navbar.jsx
+│   ├── 📁 locales/
 │   │   ├── 📁 ar/
-│   │   │   └── 📄 translation.json
+│   │   │   └── translation.json
 │   │   └── 📁 en/
-│   │       └── 📄 translation.json
-│   ├── 📁 pages/                📄 App views
-│   │   ├── 📄 Cart.jsx
-│   │   ├── 📄 CustomerOrder.jsx
-│   │   ├── 📄 Customers.jsx
-│   │   ├── 📄 Dashboard.jsx
-│   │   ├── 📄 Home.jsx
-│   │   ├── 📄 LanguageDropdown.jsx
-│   │   ├── 📄 Login.jsx
-│   │   ├── 📄 Orders.jsx
-│   │   ├── 📄 Products.jsx
-│   │   └── 📄 Register.jsx
-│   ├── 📁 services/             ⚙️ API functions
-│   │   └── 📄 api.js
-│   ├── 📄 App.css               🎨 Global styles
-│   ├── 📄 App.jsx               🧠 Main React component
-│   └── 📄 i18n.js               🌍 i18next config
+│   │       └── translation.json
+│   ├── 📁 pages/
+│   │   ├── Cart.jsx
+│   │   ├── CustomerOrder.jsx
+│   │   ├── Customers.jsx
+│   │   ├── Dashboard.jsx
+│   │   ├── Home.jsx
+│   │   ├── LanguageDropdown.jsx
+│   │   ├── Login.jsx
+│   │   ├── Orders.jsx
+│   │   ├── Products.jsx
+│   │   └── Register.jsx
+│   ├── 📁 services/
+│   │   └── api.js
+│   ├── App.css
+│   ├── App.jsx
+│   └── i18n.js
 
 
  ------------------------------------------------------------------
