@@ -1,4 +1,4 @@
-# 🧾 MSTART Hiring Task - Customer Orders Management System
+# 🧾 Customer Orders Management System
 
 This project is a full-stack web application built to fulfill the MSTART hiring task requirements. It includes a RESTful API and a responsive admin/customer web interface. The system manages customers, products, and orders, with admin functionalities and multi-language support (English & Arabic).
 
